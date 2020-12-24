@@ -38,7 +38,7 @@ delete_all_before_string = []
 lang_strings = {
     "it": ["ITALIEN"],
     "en": ["ENGLISH", "VOSTFR", "VOSTENG", "VO(ENG)", "VOST(ENG)", "ENG", "VOST(FR)", "VOST-VF", "VOST"],
-    "fr": ["TRUEFRENCH", "FRENCH", "VF", "FR", "VO(FR)"],
+    "fr": ["FRENCH", "VF", "FR", "VO(FR)"],
     "En": ["VO"]
 }
 
